@@ -6,5 +6,38 @@
     <description>Recent content on Joshua A. Welsh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://joadwe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://joadwe.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joadwe.github.io/about/</guid>
+      <description>My name is Joshua Welsh and I’m currently a Staff Scientist conducting research in Jennifer Jones’ lab within the ‘Laboratory of Pathology‘ at the National Cancer Institute in Bethesda, Maryland.
+My main research interest is on small lipid spheres released from cells called extracellular vesicles (EVs). EVs contain proteins and genetic information from the cell they were released from. To date, I have investigated novel ways to detect and analyse EVs as well as their use as markers to diagnose and track the progression of disease.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://joadwe.github.io/talks/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joadwe.github.io/talks/</guid>
+      <description>2022 45th Annual Flow Cytometry Course Small Particles Flow Cytometry Analysis., Invited by Lauren Nettenstrom, MS, SC​YM(ASCP).
+Becton Dickinson Developing tools for cross-platform single EV analysis., Invited by Aaron Tyznik, PhD.
+ISCT2022 EV Characterization: Rigor and Reproducibility., Invited by Bernd Giebel, PhD.
+2021 Flow Cytometry UK Making the most of your flow cytometer for small particle analysis., Invited by Derek Davies, BS &amp;amp; Rachael Walker, PhD.
+Cornell Institute of Biotechnology Getting started with EV flow cytometry, Invited by Lydia Tesfa, PhD</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://joadwe.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joadwe.github.io/publications/</guid>
+      <description>Welsh JA, Holloway JA, Wilkinson JS, Englyst NA., Extracellular Vesicle Flow Cytometry Analysis and Standardization, Front Cell Dev Biol, 2017, DOI: 10.3389/fcell.2017.00078 [website]
+Théry C, Witwer KW, Aikawa E, Alcaraz MJ, Anderson JD, Andriantsitohaina R, Antoniou A, Arab T, Archer F, Atkin-Smith GK, Ayre DC, Bach JM, Bachurski D, Baharvand H, Balaj L, Baldacchino S, Bauer NN, Baxter AA, Bebawy M, Beckham C, Bedina Zavec A, Benmoussa A, Berardi AC, Bergese P, Bielska E, Blenkiron C, Bobis-Wozowicz S, Boilard E, Boireau W, Bongiovanni A, Borràs FE, Bosch S, Boulanger CM, Breakefield X, Breglio AM, Brennan MÁ, Brigstock DR, Brisson A, Broekman ML, Bromberg JF, Bryl-Górecka P, Buch S, Buck AH, Burger D, Busatto S, Buschmann D, Bussolati B, Buzás EI, Byrd JB, Camussi G, Carter DR, Caruso S, Chamley LW, Chang YT, Chen C, Chen S, Cheng L, Chin AR, Clayton A, Clerici SP, Cocks A, Cocucci E, Coffey RJ, Cordeiro-da-Silva A, Couch Y, Coumans FA, Coyle B, Crescitelli R, Criado MF, D&amp;#39;Souza-Schorey C, Das S, Datta Chaudhuri A, de Candia P, De Santana EF, De Wever O, Del Portillo HA, Demaret T, Deville S, Devitt A, Dhondt B, Di Vizio D, Dieterich LC, Dolo V, Dominguez Rubio AP, Dominici M, Dourado MR, Driedonks TA, Duarte FV, Duncan HM, Eichenberger RM, Ekström K, El Andaloussi S, Elie-Caille C, Erdbrügger U, Falcón-Pérez JM, Fatima F, Fish JE, Flores-Bellver M, Försönits A, Frelet-Barrand A, et al.</description>
+    </item>
+    
   </channel>
 </rss>
